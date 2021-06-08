@@ -16,15 +16,26 @@ In order to buy a rental property and try to start a airbnb business in Boston, 
 
 To answer these questions, I took data from Airbnb in Boston, and I provided some insights about the available properties and rental prices of small properties in that area. I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. I also calculated an 'Occupancy Rate' that will provide some information about the actual occupancy level; indicate the level of market saturation and possible loss of revenue for current property owners.
 
-[Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston2.jpg)
-
 ![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
 ## Main findings
 
-After cleaning up some rows and columns of data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This include cleaning fees that must be prorated if the client rent more days.
+After cleaning up some rows and columns of unuseful data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This rates include cleaning fees that must be prorated if the client rent more days.
 
 [Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/rental_rates.jpg)
+
+Another important finding is that people are willing to pay a higher rental fee for apartments with more bathrooms than with more bedrooms. So investor should give a priority to buy properties with more bathrooms than bedrooms. See charts below:
+
+[Rental Rates with more bathrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBathrooms.jpg)
+
+[Rental Rates with more bedrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBedrooms.jpg)
+
+Similarly, occupancy rates are very high or very low. Considering all types of properties (total number 3,268), I found out that 1,254 properties had a very low availability which could indicate that ower prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for Boston.
+
+On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
+
+[Occupancy rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
+
 
 ### Markdown
 
