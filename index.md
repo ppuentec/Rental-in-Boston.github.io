@@ -1,3 +1,5 @@
+![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
+
 ## Rental properties in the Boston area
 
 Now that a more significant percentage of the population is getting vaccinated, the pandemic allows us to start leaving our homes.
