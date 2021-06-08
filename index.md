@@ -14,6 +14,8 @@ To answer these questions, I took data from Airbnb in Boston, and I provided som
 
 [Boston](https://unsplash.com/photos/NrDYqseeAxk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
+![Boston](https://unsplash.com/photos/NrDYqseeAxk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
