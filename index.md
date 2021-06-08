@@ -1,3 +1,5 @@
+![ADR](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/ADR.jpg)
+
 ![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
 ## Rental properties in the Boston area
@@ -14,7 +16,7 @@ In order to buy a rental property and try to start a airbnb business in Boston, 
 
 To answer these questions, I took data from Airbnb in Boston, and I provided some insights about the available properties and rental prices of small properties in that area. I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. I also calculated an 'Occupancy Rate' that will provide some information about the actual occupancy level; indicate the level of market saturation and possible loss of revenue for current property owners.
 
-[Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
+[Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston2.jpg)
 
 ![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
