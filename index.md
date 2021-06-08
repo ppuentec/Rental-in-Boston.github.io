@@ -14,7 +14,7 @@ To answer these questions, I took data from Airbnb in Boston, and I provided som
 
 [Boston](https://unsplash.com/photos/NrDYqseeAxk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-![Boston](https://unsplash.com/photos/NrDYqseeAxk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
 ### Markdown
 
