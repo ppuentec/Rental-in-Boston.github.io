@@ -22,7 +22,7 @@ To answer these questions, I took data from Airbnb in Boston, and I provided som
 
 After cleaning up some rows and columns of unuseful data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This rates include cleaning fees that must be prorated if the client rent more days.
 
-[Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/rental_rates.jpg)
+[Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Rental_Rates.jpg)
 
 Another important finding is that people are willing to pay a higher rental fee for apartments with more bathrooms than with more bedrooms. So investor should give a priority to buy properties with more bathrooms than bedrooms. See charts below:
 
@@ -35,6 +35,12 @@ Similarly, occupancy rates are very high or very low. Considering all types of p
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
 
 [Occupancy rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
+
+Finally, I tried to build a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. 
+
+## Conclusion
+
+
 
 
 ### Markdown
