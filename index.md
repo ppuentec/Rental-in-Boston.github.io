@@ -30,47 +30,18 @@ Another important finding is that people are willing to pay a higher rental fee 
 
 [Rental Rates with more bedrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBedrooms.jpg)
 
-Similarly, occupancy rates are very high or very low. Considering all types of properties (total number 3,268), I found out that 1,254 properties had a very low availability which could indicate that ower prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for Boston.
+Similarly, occupancy rates are very high or very low in the Boston area. Considering all types of properties in my analysis (total number 3,268), I found out that 1,254 properties had a very low availability which may indicate that owners prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for the area.
 
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
 
 [Occupancy rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
 
-Finally, I tried to build a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. 
+Finally, I tried to build the foundation for a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. I obtained r-squared values for house and apartments. In my analysis using dummy variables for bedrooms and bathrooms provided me a better r-squared values for the model. 
 
 ## Conclusion
 
+If you are interested in entering into the airbnb business in the Boston area, investor should expect rental values between $100 and $150 per day. Customers are more interested in paying for more bathrooms than bedrooms. Most of the occupancy rate are either too low or too high which may indicate loss of revenue for current property owners. While building a liner regression model try to keep it simple and use dummy variables to avoid overfitting or underfitting issues.
 
+Please feel free to use my analysis and data and build a more sophisticated model before making any invertsment decision.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppuentec/Rental-in-Boston.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Good luck!
