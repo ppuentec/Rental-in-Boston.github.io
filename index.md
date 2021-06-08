@@ -20,6 +20,12 @@ To answer these questions, I took data from Airbnb in Boston, and I provided som
 
 ![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
+## Main findings
+
+After cleaning up some rows and columns of data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This include cleaning fees that must be prorated if the client rent more days.
+
+[Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/rental_rates.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
