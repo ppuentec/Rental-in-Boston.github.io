@@ -1,5 +1,7 @@
 [ADR image](../https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/ADR.jpg)
 
+[ADR image](img/Rental-in-Boston.github.io/blob/gh-pages/ADR.jpg)
+
 ![Boston](../https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
 ## Rental properties in the Boston area
