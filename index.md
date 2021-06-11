@@ -1,4 +1,4 @@
-[ADR image](../https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/ADR.jpg)
+![ADR image](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/ADR.jpg)
 
 [ADR image](img/ADR.jpg)
 
