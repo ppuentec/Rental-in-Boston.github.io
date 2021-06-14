@@ -32,6 +32,7 @@ I also calculated an 'Average Daily Rate' that will indicate the level of revenu
 
 ## Main findings
 
+i) Expected revenue per day
 After cleaning up some rows and columns of unuseful data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This rates include cleaning fees that must be prorated if the client rent more days.
 
 [Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Rental_Rates.jpg)
@@ -42,8 +43,10 @@ Another important finding is that people are willing to pay a higher rental fee 
 
 [Rental Rates with more bedrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBedrooms.jpg)
 
+ii) Occupancy rates
 Similarly, occupancy rates are very high or very low in the Boston area. Considering all types of properties in my analysis (total number 3,268), I found out that 1,254 properties had a very low availability which may indicate that owners prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for the area.
 
+iii) Approach to a rental price model
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
 
 [Occupancy rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
