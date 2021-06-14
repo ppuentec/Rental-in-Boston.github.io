@@ -40,10 +40,10 @@ Another important finding is that people are willing to pay a higher rental fee 
 ii) Occupancy rates
 Similarly, occupancy rates are very high or very low in the Boston area. Considering all types of properties in my analysis (total number 3,268), I found out that 1,254 properties had a very low availability which may indicate that owners prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for the area.
 
+![Occupancy rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/Occupancy_rates.jpg)
+
 iii) Approach to a rental price model
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
-
-![Occupancy rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/Occupancy_rates.jpg)
 
 Finally, I tried to build the foundation for a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. I obtained r-squared values for house and apartments. In my analysis using dummy variables for bedrooms and bathrooms provided me a better r-squared values for the model. 
 
