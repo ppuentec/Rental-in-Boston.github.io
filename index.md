@@ -36,6 +36,7 @@ i) Expected revenue per day
 After cleaning up some rows and columns of unuseful data, I was able to find out that most of the properties in Boston are rented for around $100 and $150 per day. This rates include cleaning fees that must be prorated if the client rent more days.
 
 [Rental Rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Rental_Rates.jpg)
+[Rental Rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/ADR.jpg)
 
 Another important finding is that people are willing to pay a higher rental fee for apartments with more bathrooms than with more bedrooms. So investor should give a priority to buy properties with more bathrooms than bedrooms. See charts below:
 
