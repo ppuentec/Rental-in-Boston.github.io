@@ -33,9 +33,9 @@ After cleaning up some rows and columns of unuseful data, I was able to find out
 
 Another important finding is that people are willing to pay a higher rental fee for apartments with more bathrooms than with more bedrooms. So investor should give a priority to buy properties with more bathrooms than bedrooms. See charts below:
 
-[Rental Rates with more bathrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBathrooms.jpg)
+![Rental Rates with more bathrooms](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/RatesVSBathrooms.jpg)
 
-[Rental Rates with more bedrooms](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBedrooms.jpg)
+![Rental Rates with more bedrooms](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/RatesVSBedrooms.jpg)
 
 ii) Occupancy rates
 Similarly, occupancy rates are very high or very low in the Boston area. Considering all types of properties in my analysis (total number 3,268), I found out that 1,254 properties had a very low availability which may indicate that owners prefer to lose some money and keep properties rented. This also may contribute to lower the overall rental rates for the area.
@@ -43,7 +43,7 @@ Similarly, occupancy rates are very high or very low in the Boston area. Conside
 iii) Approach to a rental price model
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
 
-[Occupancy rates](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
+![Occupancy rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
 
 Finally, I tried to build the foundation for a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. I obtained r-squared values for house and apartments. In my analysis using dummy variables for bedrooms and bathrooms provided me a better r-squared values for the model. 
 
