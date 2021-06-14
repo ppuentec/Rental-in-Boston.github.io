@@ -10,7 +10,7 @@
 
 Now that a more significant percentage of the population is getting vaccinated, the pandemic allows us to start leaving our homes. Now, we can visit family members and plan a vacation.
 
-Some of us may want to invest in rental properties and try to capture some of the dollars that will become available from travelers in the coming months. Many people will start vacationing in many places across the country, including the Boston area.
+During this summer more people will start vacationing in many places across the country, including the Boston area. Some may want to invest in rental properties and try to capture some of the dollars that will become available from travelers in the coming months. 
 
 Suppose you are exploring buying rental properties and try to start an Airbnb business in the Boston area. In that case, you may want to begin your analysis by answering the following fundamental questions:
 
@@ -18,7 +18,15 @@ Suppose you are exploring buying rental properties and try to start an Airbnb bu
 - What is a good level of occupancy rate so I can become more profitable?
 - What to do to predict rental prices for a small apartment or house in that part of the country?
 
-To answer these questions, I took data from Airbnb in Boston, and I provided some insights about the available properties and rental prices of small parcels in that area. I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. I have also calculated an 'Occupancy Rate' that will provide some information about the actual occupancy level and indicate market saturation and possible loss of revenue for current property owners.
+### Rental property data used
+
+To answer these questions, I took data from Airbnb in Boston, and I provided some insights about the available properties and rental prices of small parcels in that area.
+
+### Rental property cleaning and preparation 
+
+I took Rental property information from Kagel about the Boston market. The data was very large, I had to eliminate several columns of data, eliminate unnecesary data and transform some data for calculations.
+
+I also calculated an 'Average Daily Rate' that will indicate the level of revenues that can be expected in that market. I have also calculated an 'Occupancy Rate' that will provide some information about the actual occupancy level and indicate market saturation and possible loss of revenue for current property owners.
 
 ![Boston](https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
 
