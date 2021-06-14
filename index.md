@@ -22,7 +22,7 @@ Suppose you are exploring buying rental properties and try to start an Airbnb bu
 
 To answer these questions, I took data from Airbnb in Boston, and I provided some insights about the available properties and rental prices of small parcels in that area.
 
-### Rental property cleaning and preparation 
+### Rental property data cleaning and preparation 
 
 I took Rental property information from Kagel about the Boston market. The data was very large, I had to eliminate several columns of data, eliminate unnecesary data and transform some data for calculations.
 
