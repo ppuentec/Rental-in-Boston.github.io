@@ -43,7 +43,7 @@ Similarly, occupancy rates are very high or very low in the Boston area. Conside
 iii) Approach to a rental price model
 On the other hand, high availability may indicate that some properties are overprice leading to loss of profitabilities as well. See chart below for details:
 
-![Occupancy rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Occupancy_rates.jpg)
+![Occupancy rates](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/Occupancy_rates.jpg)
 
 Finally, I tried to build the foundation for a linear regression model to predict price of small properties up to two bedrooms and two bathrooms. I obtained r-squared values for house and apartments. In my analysis using dummy variables for bedrooms and bathrooms provided me a better r-squared values for the model. 
 
