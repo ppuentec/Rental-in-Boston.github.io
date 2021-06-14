@@ -4,7 +4,7 @@
 
 [ADR image](img/ADR.jpg)
 
-![Boston](../https://github.com/ppuentec/Rental-in-Boston.github.io/blob/gh-pages/Boston3.jpg)
+![Boston](https://raw.githubusercontent.com/ppuentec/Rental-in-Boston.github.io/gh-pages/Boston3.jpg)
 
 ## Rental properties in the Boston area
 
